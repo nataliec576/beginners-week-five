@@ -4,4 +4,13 @@ body {
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
+
+}
+.col-sm{
+max-width: 400PX
+
+}
+.carousel-item  img{
+max-width: 500px
+
 }
